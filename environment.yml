@@ -1,0 +1,7 @@
+name: salary-predictor
+dependencies:
+  - python=3.11
+  - pandas
+  - scikit-learn
+  - joblib
+  - pip
