@@ -11,7 +11,7 @@ import joblib
 FEATURE_COLS = ["DftYr", "DftRd", "Ovrl", "GP", "G"]
 TARGET_COL = "Salary"
 TRAIN_CSV = "train.csv"
-MODEL_PATH = "Salary.csv"   # keeping your original filename for compatibility
+MODEL_PATH = "salary_model.joblib"   # keeping your original filename for compatibility
 
 # --- Model --------------------------------------------------------------------
 class Dataset:
