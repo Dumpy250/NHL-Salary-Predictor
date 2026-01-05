@@ -96,9 +96,9 @@ NHL-Salary-Predictor/
 ```
 ⚠️ Limitations
 
-- Uses a basic linear regression model
+ Uses a basic linear regression model
 
-- Does not account for:
+ Does not account for:
 
 - Player position
 
